@@ -1,1 +1,1 @@
-# Analise-Explorat-ria---Registros-Hospitalares-de-C-ncer-de-Pulm-o-no-Brasil-Entre-2019-e-2022
+Analise-Exploratoria-Registros-Hospitalares-de-Cancer-de-Pulmao-no-Brasil-Entre-2019-2022
